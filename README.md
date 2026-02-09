@@ -1,2 +1,3 @@
 # project2
-first timeat github
+first time at github
+Author - Anubhav Sonmanik
